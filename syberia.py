@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #>>> bismillah <<<
-# Thank's to god first, to stackoverflow :p and  EBF :D
+# Thank's to god first, to stackoverflow :p and  Syberia :D
 # AUTHOR:  Skmkm
 #joomla , wordpress graber
 import re , urllib2 , sys , os 
@@ -15,7 +15,7 @@ if system()=='Linux':
  ____  _    __  __ _    __  __ 
 / ___|| | _|  \/  | | _|  \/  |  +----| Wordpress , joomla grabber |----+
 \___ \| |/ / |\/| | |/ / |\/| |  |                                      |
- ___) |   <| |  | |   <| |  | |  +----|       EBF - hackers        |----+ 
+ ___) |   <| |  | |   <| |  | |  +----|       Syberia- hackers        |----+ 
 |____/|_|\_\_|  |_|_|\_\_|  |_|
                                
 
@@ -182,7 +182,7 @@ if system()=='Windows':
  ____  _    __  __ _    __  __ 
 / ___|| | _|  \/  | | _|  \/  |  +----| Wordpress , joomla grabber |----+
 \___ \| |/ / |\/| | |/ / |\/| |  |                                      |
- ___) |   <| |  | |   <| |  | |  +----|       EBF - hackers        |----+ 
+ ___) |   <| |  | |   <| |  | |  +----|       Syberia - hackers        |----+ 
 |____/|_|\_\_|  |_|_|\_\_|  |_|
                                
 
