@@ -6,7 +6,7 @@
 import re , urllib2 , sys , os 
 from time import sleep
 from platform import system
-if system()=='Linux':
+if os.name =='Linux' or os.name == "posix":
  os.system('clear')
 
  logo='''
